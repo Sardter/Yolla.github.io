@@ -15,4 +15,4 @@ Yolla is a mobile and web-based cargo marketplace designed to simplify the proce
 
 [**Elif Şen**](https://www.linkedin.com/in/senelif/)
 
-[**Celal Salih Türkmenü**](https://www.linkedin.com/in/celalturkmen/)
+[**Celal Salih Türkmen**](https://www.linkedin.com/in/celalturkmen/)
